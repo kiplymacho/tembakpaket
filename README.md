@@ -9,6 +9,12 @@
 
 [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
+# 
+
+Cara Tembak Paket Internet XL dengan termux di Android untuk mendapatkan mendapatkan paket internet yang sangat murah sekali 
+
+anda akan mendapatkan kouta internet 30 GB dengan Harga 10.000
+
 # Syarat & Ketentuan 
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
@@ -30,13 +36,6 @@ Unduh Script tembak paket Dibawah Ini:
 </a>
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
-
-# Tembak Paket Internet XL dengan termux 
-
-Cara Tembak Paket Internet XL dengan termux di Android untuk mendapatkan mendapatkan paket internet yang sangat murah sekali 
-
-anda akan mendapatkan kouta internet 30 GB dengan Harga 10.000
-
 
 </p>
 <div height='45' align="center">
