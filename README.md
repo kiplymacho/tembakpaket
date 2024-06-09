@@ -19,6 +19,11 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
+Unduh Script tembak paket Dibawah Ini:
+
+👇👇
+
+[![script tembak paket](https://img.shields.io/badge/scripttembakpaket-%2B-yellow.svg?style=flat)](https://sfile.mobi/1GFahgbsyIw)
 
 <a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
