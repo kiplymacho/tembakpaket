@@ -5,6 +5,8 @@
 
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
+<h2 align="center">
+
 [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 # Syarat & Ketentuan 
@@ -27,17 +29,6 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 # Tembak Paket Internet XL dengan termux 
 
 Cara Tembak Paket Internet XL dengan termux di Android untuk mendapatkan mendapatkan paket internet yang sangat murah sekali 
-
-
-ketik kode perinah
-
-pkg install python
-
-pkg install git
-
-git clone https://github.com/kiplymacho/tembakpaket
-
-python dor.py
 
 anda akan mendapatkan kouta internet 30 GB dengan Harga 10.000
 
