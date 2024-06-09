@@ -2,14 +2,10 @@ Tembak Paket Internet XL dengan termux
 
 Cara Tembak Paket Internet XL dengan termux di Android untuk mendapatkan mendapatkan paket internet yang sangat murah sekali 
 
-Easy install
-1.Download termux di play store
-2.ketik kode perinah
+ketik kode perinah
 pkg install python
 pkg install git
-git clone https://github.com/kumpulanremaja/tembakpaket
+git clone https://github.com/kiplymacho/tembakpaket
 python dor.py
 
-
 anda akan mendapatkan kouta internet 30 GB dengan Harga 10.000
-untuk selengkapnya di bisa anda baca tutorialnya di https://www.kumpulanremaja.com/2019/07/tembak-paket-internet-xl-dengan-termux.html
